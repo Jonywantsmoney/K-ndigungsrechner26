@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kündigung Vorlage kostenlos (Word & PDF)</title>
+<meta name="description" content="Kostenlose Kündigung Vorlage – einfach kopieren & nutzen.">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+<h1>Kündigung Vorlage kostenlos</h1>
+</header>
+
+<main class="card">
+
+<p>Hier ist eine einfache Kündigungsvorlage:</p>
+
+<textarea rows="10" style="width:100%;">
+Max Mustermann
+Musterstraße 1
+
+Arbeitgeber GmbH
+
+Kündigung meines Arbeitsvertrages
+
+Sehr geehrte Damen und Herren,
+
+hiermit kündige ich mein Arbeitsverhältnis fristgerecht.
+
+Mit freundlichen Grüßen
+</textarea>
+
+<h3>Frist berechnen</h3>
+
+<a href="index.html">
+<button>Kündigungsfrist berechnen</button>
+</a>
+
+<div class="affiliate-box">
+<h3>⚠️ Sicher gehen</h3>
+<p>Lass deine Kündigung prüfen, bevor du sie abschickst.</p>
+<a href="DEIN-AFFILIATE-LINK" target="_blank">
+Jetzt prüfen lassen
+</a>
+</div>
+
+</main>
+
+<footer>
+<a href="impressum.html">Impressum</a>
+</footer>
+
+</body>
+</html>
