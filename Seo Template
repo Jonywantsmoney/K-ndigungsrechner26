@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{KEYWORD}} – Tabelle & Rechner</title>
+<meta name="description" content="{{KEYWORD}} einfach erklärt inkl. Tabelle und Rechner.">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+<h1>{{KEYWORD}}</h1>
+</header>
+
+<main class="card">
+
+<p>
+Die Kündigungsfrist richtet sich nach deiner Betriebszugehörigkeit und den gesetzlichen Regelungen.
+</p>
+
+<h2>Übersicht</h2>
+<ul>
+<li>0–2 Jahre: 4 Wochen</li>
+<li>2–5 Jahre: 1 Monat</li>
+<li>5–8 Jahre: 2 Monate</li>
+<li>8–10 Jahre: 3 Monate</li>
+</ul>
+
+<h3>Rechner nutzen</h3>
+
+<a href="index.html">
+<button>Kündigungsfrist berechnen</button>
+</a>
+
+<div class="affiliate-box">
+<h3>⚠️ Tipp</h3>
+<p>Eine falsche Kündigung kann teuer werden.</p>
+
+<a href="DEIN-AFFILIATE-LINK" target="_blank">
+Jetzt prüfen lassen
+</a>
+</div>
+
+</main>
+
+<footer>
+<a href="impressum.html">Impressum</a>
+</footer>
+
+</body>
+</html>
