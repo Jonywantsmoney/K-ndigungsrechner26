@@ -1,0 +1,32 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #f5f5f5;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin: 30px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+button {
+  background: blue;
+  color: white;
+  padding: 10px;
+  width: 100%;
+}
+
+.affiliate-box {
+  background: #ffeaa7;
+  padding: 20px;
+  margin: 20px auto;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.ad-box {
+  margin: 20px;
+}
